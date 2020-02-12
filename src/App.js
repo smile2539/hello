@@ -9,7 +9,6 @@ class App extends Component {
     this.state = {
       name: "Yupapron Chaiwut",
       age : 21
-      
     };
   }
 
